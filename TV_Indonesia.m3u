@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 group-title="TV Indonesia"
 #EXTINF:-1,TRANS7
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/trans72_576p/playlist.m3u8
 #EXTINF:-1,TRANSTV
