@@ -1,0 +1,80 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV Indonesia"
+#EXTINF:-1,TRANS7
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/trans72_576p/playlist.m3u8
+#EXTINF:-1,TRANSTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/transtv2_576p/playlist.m3u8
+#EXTINF:-1,GLOBALTV#1
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/globaltv2_576p/playlist.m3u8
+#EXTINF:-1,MNC TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/mnctv2_576p/playlist.m3u8
+#EXTINF:-1,METRO TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/metrotv2_576p/playlist.m3u8
+#EXTINF:-1,AN TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/antv2_576p/playlist.m3u8
+#EXTINF:-1,KOMPASTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/kompastv_720p/playlist.m3u8
+#EXTINF:-1,INDOSIAR
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/indosiar2_576p/playlist.m3u8
+#EXTINF:-1,RTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/rajawalitv.stream_576p/playlist.m3u8
+#EXTINF:-1,NET TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/nettv_576p/playlist.m3u8
+#EXTINF:-1,TV ONE
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvone2_576p/playlist.m3u8
+#EXTINF:-1,TVONE HD
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvone2_576p/playlist.m3u8
+#EXTINF:-1,TVRIBUDAYA
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvribudaya_576p/playlist.m3u8
+#EXTINF:-1,TVRIOLAHRAGA
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvriolahraga_576/playlist.m3u8
+#EXTINF:-1,TVRIOLAHRAGA#2
+http://118.97.50.102:1935/digital/olahraga/playlist.m3u8
+#EXTINF:-1,TVRINASIONAL
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvrinasional_576p/playlist.m3u8
+#EXTINF:-1,TVRIJA KARTA
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvrijakarta_576p/playlist.m3u8
+#EXTINF:-1,MIVO TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/mivotv_all/playlist.m3u8
+#EXTINF:-1,JAKTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/jaktv_576p/playlist.m3u8
+#EXTINF:-1,JTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/jawatv_576p/playlist.m3u8
+#EXTINF:-1,HAARITV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/more2_all/playlist.m3u8
+#EXTINF:-1,ELSHINTATV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/elshintatv_all/playlist.m3u8
+#EXTINF:-1,DMC TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/dmctv_all/playlist.m3u8
+#EXTINF:-1,DAAI TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/daaitv2_all/playlist.m3u8
+#EXTINF:-1,CAHAYA TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/cahayatv_all/playlist.m3u8
+#EXTINF:-1,BLOOMBERG TVID
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/bloomberg-id_all/playlist.m3u8
+#EXTINF:-1,ANTARA TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/antaratv_all/playlist.m3u8
+#EXTINF:-1,BERITASATU
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/beritasatu_all/playlist.m3u8
+#EXTINF:-1,DAMAI TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/more1_all/playlist.m3u8
+#EXTINF:-1,LBS IN-DRAMA
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/lbsindrama_all/playlist.m3u8
+#EXTINF:-1,LBSK-DRAMA
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/ldrama2_all/playlist.m3u8
+#EXTINF:-1,LBS SHOPPING
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/lshopping2_all/playlist.m3u8
+#EXTINF:-1,NHK WORLD
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/nhkworld_all/playlist.m3u8
+#EXTINF:-1,SPACETOON
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/spacetoon_all/playlist.m3u8
+#EXTINF:-1,SPACE TOON2
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/spacetoon2_all/playlist.m3u8
+#EXTINF:-1,THE INDONESIA CHANNEL
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/theindonesiachannel_576p/playlist.m3u8
+#EXTINF:-1,U CHANNEL
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/uchannel_576p/playlist.m3u8
+#EXTINF:-1,SCTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/sctv2_576p/playlist.m3u8
+#EXTINF:-1,RCTI#1
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/rcti2_576/playlist.m3u8
