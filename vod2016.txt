@@ -1,4 +1,5 @@
 group,Video on Demands 2016
+avi,Abducted 2016,http://dl5.nightsdl.com/Masih/Film/2016/Abducted.2016.720p.HDTV.Ganool-[Nightsdl.com].mkv
 avi,Airlift 2016,http://dl5.nightsdl.com/Masih/Film/2016/Airlift.2016.DVDScr.ShAaNiG-[Nightsdl.Com].mkv
 avi,Arrowhead 2016,http://dl5.nightsdl.com/Masih/Film/2016/Arrowhead.2016.1080p.Ganool-[Nightsdl.com].mp4
 avi,Arrowhead 2016,http://dl5.nightsdl.com/Masih/Film/2016/Arrowhead.2016.720p.Ganool-[Nightsdl.com].mp4
