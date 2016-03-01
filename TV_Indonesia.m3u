@@ -1,28 +1,28 @@
 #EXTM3U
 #EXTINF:-1,TRANS7
-http://50.97.82.21/sedz1j6exeot/trans72_all/sedz1j6exeot/trans72_576p/chunks.m3u8?nimblesessionid=32139003&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE2ICA3OjI5OjIyIFBNJmhhc2hfdmFsdWU9YUl3RjY5QXBkcVo0eGZueElNbUJrdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9LTF8dW5rbm93bnwyLzIzLzIwMTYgIDc6Mjk6MjIgUE18NzcuMTYzLjExMS4xOA==
+http://edge.nim.mivo.tv/wh76pzref44u53o6/trans72_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTYgIDg6NDA6MzggUE0maGFzaF92YWx1ZT1VUnZURk9UZEN1QkdqV0NnUWJncjJBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0tMXx1bmtub3dufDMvMS8yMDE2fDc3LjE2My4xMTEuMTg=
 #EXTINF:-1,TRANSTV
-http://173.192.105.199/sedz1j6exeot/transtv2_all/sedz1j6exeot/transtv2_576p/chunks.m3u8?nimblesessionid=293910438&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE2ICA3OjQ3OjIxIFBNJmhhc2hfdmFsdWU9d3AyZlJtb3JtQmJQbS83b2V0SXdWdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9LTF8dW5rbm93bnwyLzIzLzIwMTYgIDc6NDc6MjEgUE18NzcuMTYzLjExMS4xOA==
+http://edge.nim.mivo.tv/wh76pzref44u53o6/transtv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTYgIDg6NDA6MzggUE0maGFzaF92YWx1ZT1VUnZURk9UZEN1QkdqV0NnUWJncjJBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0tMXx1bmtub3dufDMvMS8yMDE2fDc3LjE2My4xMTEuMTg=
 #EXTINF:-1,GLOBALTV
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index1024.m3u8
 #EXTINF:-1,MNC TV
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u8
 #EXTINF:-1,METRO TV
-http://103.225.66.104/live-edge/smil:metro.smil/chunklist_w1634097340_b1300000_sleng.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1,AN TV
 http://202.129.216.27:1935/antv/antv1/playlist.m3u8
 #EXTINF:-1,KOMPASTV
 http://202.137.11.52/jakarta/offair.sdp/playlist.m3u8
 #EXTINF:-1,INDOSIAR
-http://50.97.82.21/sedz1j6exeot/indosiar2_all/sedz1j6exeot/indosiar2_576p/chunks.m3u8?nimblesessionid=32139003&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE2ICA3OjI5OjIyIFBNJmhhc2hfdmFsdWU9YUl3RjY5QXBkcVo0eGZueElNbUJrdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9LTF8dW5rbm93bnwyLzIzLzIwMTYgIDc6Mjk6MjIgUE18NzcuMTYzLjExMS4xOA==
+http://edge.nim.mivo.tv/wh76pzref44u53o6/indosiar2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTYgIDg6NDA6MzggUE0maGFzaF92YWx1ZT1VUnZURk9UZEN1QkdqV0NnUWJncjJBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0tMXx1bmtub3dufDMvMS8yMDE2fDc3LjE2My4xMTEuMTg=
 #EXTINF:-1,RTV
-http://75.126.73.50/sedz1j6exeot/rajawalitv.stream_all/sedz1j6exeot/rajawalitv.stream_576p/chunks.m3u8?nimblesessionid=42716427&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE2ICA3OjQ3OjIxIFBNJmhhc2hfdmFsdWU9d3AyZlJtb3JtQmJQbS83b2V0SXdWdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9LTF8dW5rbm93bnwyLzIzLzIwMTYgIDc6NDc6MjEgUE18NzcuMTYzLjExMS4xOA==
+http://edge.nim.mivo.tv/wh76pzref44u53o6/rajawalitv.stream_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTYgIDg6NDA6MzggUE0maGFzaF92YWx1ZT1VUnZURk9UZEN1QkdqV0NnUWJncjJBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0tMXx1bmtub3dufDMvMS8yMDE2fDc3LjE2My4xMTEuMTg=
 #EXTINF:-1,NET TV
 http://id.stream.netmedia.co.id//live/nettv_hd/index.m3u8
 #EXTINF:-1,TV ONE
-http://50.97.82.21/sedz1j6exeot/tvone2_all/sedz1j6exeot/tvone2_576p/chunks.m3u8?nimblesessionid=32139003&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE2ICA3OjI5OjIyIFBNJmhhc2hfdmFsdWU9YUl3RjY5QXBkcVo0eGZueElNbUJrdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9LTF8dW5rbm93bnwyLzIzLzIwMTYgIDc6Mjk6MjIgUE18NzcuMTYzLjExMS4xOA==
+http://edge.nim.mivo.tv/wh76pzref44u53o6/tvone2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTYgIDg6NDA6MzggUE0maGFzaF92YWx1ZT1VUnZURk9UZEN1QkdqV0NnUWJncjJBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0tMXx1bmtub3dufDMvMS8yMDE2fDc3LjE2My4xMTEuMTg=
 #EXTINF:-1,ANTARA TV
-http://edge.nim.mivo.tv/wh76pzref44u53o6/antaratv_all/playlist.m3u8
+http://edge.nim.mivo.tv/wh76pzref44u53o6/antaratv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTYgIDg6NDA6MzggUE0maGFzaF92YWx1ZT1VUnZURk9UZEN1QkdqV0NnUWJncjJBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0tMXx1bmtub3dufDMvMS8yMDE2fDc3LjE2My4xMTEuMTg=
 #EXTINF:-1,BERITASATU
 http://edge.firstmediacdn.swiftserve.com/live/fmcdn/amlst:bsnews/chunklist_b2217000.m3u8
 #EXTINF:-1,MNC Infotaintment
@@ -30,6 +30,6 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000038/index1024.m3u
 #EXTINF:-1,MNC MUSIC Channel
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index1024.m3u8
 #EXTINF:-1,SCTV
-http://50.97.82.21/sedz1j6exeot/sctv2_all/sedz1j6exeot/sctv2_576p/chunks.m3u8?nimblesessionid=32139003&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE2ICA3OjI5OjIyIFBNJmhhc2hfdmFsdWU9YUl3RjY5QXBkcVo0eGZueElNbUJrdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9LTF8dW5rbm93bnwyLzIzLzIwMTYgIDc6Mjk6MjIgUE18NzcuMTYzLjExMS4xOA==
+http://edge.nim.mivo.tv/wh76pzref44u53o6/sctv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMTYgIDg6NDA6MzggUE0maGFzaF92YWx1ZT1VUnZURk9UZEN1QkdqV0NnUWJncjJBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0tMXx1bmtub3dufDMvMS8yMDE2fDc3LjE2My4xMTEuMTg=
 #EXTINF:-1,RCTI#1
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index1024.m3u8
