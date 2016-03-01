@@ -10,7 +10,7 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u
 #EXTINF:-1,METRO TV
 http://103.225.66.104/live-edge/smil:metro.smil/chunklist_w1634097340_b1300000_sleng.m3u8
 #EXTINF:-1,AN TV
-http://50.97.82.21/sedz1j6exeot/antv2_all/sedz1j6exeot/antv2_576p/chunks.m3u8?nimblesessionid=32139003&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE2ICA3OjI5OjIyIFBNJmhhc2hfdmFsdWU9YUl3RjY5QXBkcVo0eGZueElNbUJrdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9LTF8dW5rbm93bnwyLzIzLzIwMTYgIDc6Mjk6MjIgUE18NzcuMTYzLjExMS4xOA==
+http://202.129.216.27:1935/antv/antv1/playlist.m3u8
 #EXTINF:-1,KOMPASTV
 http://75.126.73.50/sedz1j6exeot/kompastv_all/sedz1j6exeot/kompastv_720p/chunks.m3u8?nimblesessionid=42716334&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDE2ICA3OjQ3OjIxIFBNJmhhc2hfdmFsdWU9d3AyZlJtb3JtQmJQbS83b2V0SXdWdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9LTF8dW5rbm93bnwyLzIzLzIwMTYgIDc6NDc6MjEgUE18NzcuMTYzLjExMS4xOA==
 #EXTINF:-1,INDOSIAR
