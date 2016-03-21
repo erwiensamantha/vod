@@ -1,1 +1,6 @@
+#EXTM3U
+#EXTINF:-1, EUROSPORT
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1,CDN SportsMax
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+
