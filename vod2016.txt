@@ -3,6 +3,7 @@ avi,Abducted 2016,http://dl5.nightsdl.com/Masih/Film/2016/Abducted.2016.720p.HDT
 avi,Airlift 2016,http://dl5.nightsdl.com/Masih/Film/2016/Airlift.2016.DVDScr.ShAaNiG-[Nightsdl.Com].mkv
 avi,Arrowhead 2016,http://dl5.nightsdl.com/Masih/Film/2016/Arrowhead.2016.1080p.Ganool-[Nightsdl.com].mp4
 avi,Arrowhead 2016,http://dl5.nightsdl.com/Masih/Film/2016/Arrowhead.2016.720p.Ganool-[Nightsdl.com].mp4
+avi,Barbie Spy Squad 2016,http://dl5.nightsdl.com/Masih/Film/2016/Barbie.Spy.Squad.2016.720p.Ganool-[Nightsdl.com].mkv
 avi,Batman Bad Blood 2016,http://dl5.nightsdl.com/Masih/Film/2016/Batman.Bad.Blood.2016.720p.WEB-DL.Ganool-[Nightsdl.Com].mkv
 avi,Blue Mountain State The Rise of Thadland 2016,http://dl5.nightsdl.com/Masih/Film/2016/Blue.Mountain.State.The.Rise.of.Thadland.2016.720p.WEB-DL.Ganool-[Nightsdl.com].mp4
 avi,Breakdown 2016,http://dl5.nightsdl.com/Masih/Film/2016/Breakdown.2016.DVDrip.Ganool-[Nightsdl.com].mkv
@@ -11,6 +12,7 @@ avi,Cassidy Way 2016,http://dl5.nightsdl.com/Masih/Film/2016/Cassidy.Way.2016.HD
 avi,Crouching Tiger Hidden Dragon Sword of Destiny 2016,http://dl5.nightsdl.com/Masih/Film/2016/Crouching.Tiger.Hidden.Dragon.Sword.of.Destiny.2016.720p.HDrip.ShAaNiG-[Nightsdl.com].mkv
 avi,Darkweb 2016,http://dl5.nightsdl.com/Masih/Film/2016/Darkweb.2016.HDrip.Ganool-[Nightsdl.com].mp4
 avi,Dirty Lies 2016,http://dl5.nightsdl.com/Masih/Film/2016/Dirty.Lies.2016.DVDrip.Ganool-[Nightsdl.com].mkv
+avi,Everything About Her 2016,http://dl5.nightsdl.com/Masih/Film/2016/Everything.About.Her.2016.720p.WEB-DL.Ganool-[Nightsdl.com].mkv
 avi,Exposed 2016,http://dl5.nightsdl.com/Masih/Film/2016/Exposed.2016.1080p.5.1CH.Ganool-[Nightsdl.com].mkv
 avi,Exposed 2016,http://dl5.nightsdl.com/Masih/Film/2016/Exposed.2016.720p.Ganool-[Nightsdl.com].mkv
 avi,Fitoor 2016,http://dl5.nightsdl.com/Masih/Film/2016/Fitoor.2016.DVDscr.Ganool-[Nightsdl.com].mp4
@@ -18,30 +20,42 @@ avi,Foreign Land 2016,http://dl5.nightsdl.com/Masih/Film/2016/Foreign.Land.2016.
 avi,Hollow Creek 2016,http://dl5.nightsdl.com/Masih/Film/2016/Hollow.Creek.2016.720p.WEB-DL.Ganool-[Nightsdl.com].mkv
 avi,Home 2016,http://dl5.nightsdl.com/Masih/Film/2016/Home.2016.720p.WEB-DL.nItRo-[Nightsdl.com].mkv
 avi,Home Invasion 2016,http://dl5.nightsdl.com/Masih/Film/2016/Home.Invasion.2016.DVDrip.Ganool-[Nightsdl.com].mp4
+avi,Ice Age The Great Egg 2016,http://dl5.nightsdl.com/Masih/Film/2016/Ice.Age.The.Great.Egg-Scapade.2016.720p.WEB-DL.Ganool-[Nightsdl.com].mkv
 avi,Jai Gangaajall 2016,http://dl5.nightsdl.com/Masih/Film/2016/Jai.Gangaajall.2016.720p.DVDScr.ShAaNiG-[Nightsdl.com].mkv
 avi,Jarhead 3 The Siege 2016,http://dl5.nightsdl.com/Masih/Film/2016/Jarhead.3.The.Siege.2016.720p.Ganool-[Nightsdl.com].mp4
+avi,Kshanam 2016,http://dl5.nightsdl.com/Masih/Film/2016/Kshanam.2016.720p.HDRip.Ganool-[Nightsdl.com].mkv
 avi,Kung Fu Panda 3 2016,http://dl5.nightsdl.com/Masih/Film/2016/Kung.Fu.Panda.3.2016.HC.1080p.HDrip.ShAaNiG-[Nightsdl.com].mkv
 avi,Kung Fu Panda 3 2016,http://dl5.nightsdl.com/Masih/Film/2016/Kung.Fu.Panda.3.2016.HC.720p.HDrip.ShAaNiG-[Nightsdl.com].mkv
+avi,Kung Fu Panda Secrets of the Scroll 2016,http://dl5.nightsdl.com/Masih/Film/2016/Kung.Fu.Panda.Secrets.of.the.Scroll.2016.SHORT.720p.WEB-DL.nItRo-[Nightsdl.com].mkv
 avi,LEGO DC Comics Super Heroes Justice League Cosmic Clash 2016,http://dl5.nightsdl.com/Masih/Film/2016/LEGO.DC.Comics.Super.Heroes.Justice.League.Cosmic.Clash.2016.DVDrip.Ganool-[Nightsdl.com].mp4
+avi,Little Dead Rotting Hood 2016,http://dl5.nightsdl.com/Masih/Film/2016/Little.Dead.Rotting.Hood.2016.720p.Ganool-[Nightsdl.com].mkv
 avi,Little Savages 2016,http://dl5.nightsdl.com/Masih/Film/2016/Little.Savages.2016.DVDrip.Ganool-[Nightsdl.com].mp4
 avi,Mercury Plains 2016,http://dl5.nightsdl.com/Masih/Film/2016/Mercury.Plains.2016.DVDrip.Ganool-[Nightsdl.Com].mkv
+avi,Michael Jacksons Journey From Motown To Off The Wall 2016,http://dl5.nightsdl.com/Masih/Film/2016/Michael.Jacksons.Journey.From.Motown.To.Off.The.Wall.2016.1080p.5.1CH.Ganool-[Nightsdl.com].mkv
 avi,Michael Jacksons Journey From Motown To Off The Wall 2016,http://dl5.nightsdl.com/Masih/Film/2016/Michael.Jacksons.Journey.From.Motown.To.Off.The.Wall.2016.720p.Ganool-[Nightsdl.com].mkv
 avi,Misconduct 2016,http://dl5.nightsdl.com/Masih/Film/2016/Misconduct.2016.720p.WEB-DL-[Nightsdl.com].mkv
 avi,Monkey Up 2016,http://dl5.nightsdl.com/Masih/Film/2016/Monkey.Up.2016.HDrip.Ganool-[Nightsdl.com].mp4
 avi,Murder Rap Inside The Biggie And Tupac Murders 2016,http://dl5.nightsdl.com/Masih/Film/2016/Murder.Rap.Inside.The.Biggie.And.Tupac.Murders.2015-[Nightsdl.com].mkv
 avi,Murder Rap Inside The Biggie And Tupac Murders 2016,http://dl5.nightsdl.com/Masih/Film/2016/Murder.Rap.Inside.The.Biggie.And.Tupac.Murders.2016.DVDrip.Ganool-[Nightsdl.com].mp4
+avi,Pee 2016,http://dl5.nightsdl.com/Masih/Film/2016/Pee-wees.Big.Holiday.2016.HDRip.Ganool-[Nightsdl.com].mkv
 avi,Pride and Prejudice and Zombies 2016,http://dl5.nightsdl.com/Masih/Film/2016/Pride.and.Prejudice.and.Zombies.2016.720p.WEBRip-[Nightsdl.com].mkv
 avi,Queen of the Desert 2016,http://dl5.nightsdl.com/Masih/Film/2016/Queen.of.the.Desert.2016.720p.WEB-DL-[Nightsdl.Com].mkv
 avi,Ride Along 2 2016,http://dl5.nightsdl.com/Masih/Film/2016/Ride.Along.2.2016.HC.720p.HDrip.ShAaNiG-[Nightsdl.com].mkv
+avi,Sanam Teri Kasam 2016,http://dl5.nightsdl.com/Masih/Film/2016/Sanam.Teri.Kasam.2016.DVDRip.Ganool-[Nightsdl.com].mkv
+avi,Showdown in Manila 2016,http://dl5.nightsdl.com/Masih/Film/2016/Showdown.in.Manila.2016.720p.WEB-DL.Ganool-[Nightsdl.com].mkv
 avi,Standoff 2016,http://dl5.nightsdl.com/Masih/Film/2016/Standoff.2016.720p.Ozlem-[Nightsdl.com].mp4
 avi,Suicide Note 2016,http://dl5.nightsdl.com/Masih/Film/2016/Suicide.Note.2016.720p.HDTV.Ganool-[Nightsdl.com].mkv
 avi,The 22nd Annual Screen Actors Guild Awards 2016,http://dl5.nightsdl.com/Masih/Film/2016/The.22nd.Annual.Screen.Actors.Guild.Awards.2016.720p.HDTV.x264-ALTEREGO-[Nightsdl.com].mkv
 avi,The 58th Annual Grammy Awards 2016,http://dl5.nightsdl.com/Masih/Film/2016/The.58th.Annual.Grammy.Awards.2016.HDTV.x264-ALTEREGO-[Nightsdl.com].mp4
+avi,The 5th Wave 2016,http://dl5.nightsdl.com/Masih/Film/2016/The.5th.Wave.2016.720p.HDRip.Ganool-[Nightsdl.com].mkv
+avi,The 5th Wav 2016,http://dl5.nightsdl.com/Masih/Film/2016/The.5th.Wave2016.HDRip.Ganool-[Nightsdl.com].mkv
 avi,The 69th British Academy Film Awards 2016,http://dl5.nightsdl.com/Masih/Film/2016/The.69th.British.Academy.Film.Awards.2016.720p.HDTV.x264-RDVAS-[Nightsdl.com].mkv
 avi,The 73rd Annual Golden Globe Awards 2016,http://dl5.nightsdl.com/Masih/Film/2016/The.73rd.Annual.Golden.Globe.Awards.2016.720p.HDTV.x264-ALTEREGO-[Nightsdl.Com].mkv
 avi,The 73rd Annual Golden Globe Awards 2016,http://dl5.nightsdl.com/Masih/Film/2016/The.73rd.Annual.Golden.Globe.Awards.2016.HDTV.x264-ALTEREGO-[Nightsdl.Com].mp4
-avi,The Forest 2016,http://dl5.nightsdl.com/Masih/Film/2016/The.Forest.2016.HDrip.Ganool-[Nightsdl.com].mp4
+avi,The Confirmation 2016,http://dl5.nightsdl.com/Masih/Film/2016/The.Confirmation.2016.720p.WEB-DL.nItRo-[Nightsdl.com].mkv
+avi,The Forest 2016,http://dl5.nightsdl.com/Masih/Film/2016/The.Forest.2016.720p.WEB.DL.Ganool-[Nightsdl.com].mkv
 avi,The Hunger Games Mockingjay Part 2 2016,http://dl5.nightsdl.com/Masih/Film/2016/The.Hunger.Games.Mockingjay.Part.2.2015.1080p.5.1CH.Ganool-[Nightsdl.com].mkv
+avi,The Unfolding 2016,http://dl5.nightsdl.com/Masih/Film/2016/The.Unfolding.2016.HDrip.nItRo-[Nightsdl.com].mkv
 avi,The Veil 2016,http://dl5.nightsdl.com/Masih/Film/2016/The.Veil.2016.720p.WEB-DL.Ganool-[Nightsdl.Com].mkv
 avi,Timber the Treasure Dog 2016,http://dl5.nightsdl.com/Masih/Film/2016/Timber.the.Treasure.Dog.2016.HDrip.Ganool-[Nightsdl.com].mkv
 avi,Tom Clancys the Division Agent Origins Part1 Conspiracies 720p WEBrip 2016,http://dl5.nightsdl.com/Masih/Film/2016/Tom.Clancys.the.Division.Agent.Origins.Part1.Conspiracies.720p.WEBrip-[Nightsdl.Com].mp4
