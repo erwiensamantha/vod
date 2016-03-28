@@ -1,6 +1,152 @@
 #EXTM3U
-#EXTINF:-1,----- UK LIVE -----
-http://cobra-iptv.noip.me:8000/live/selina/selina/6886.ts
+#EXTINF:-1,Sky Action HD
+http://77.250.14.41:8001/1:0:19:74:B:85:C00000:0:0:0:
+#EXTINF:-1,Sky Hits HD
+http://77.250.14.41:8001/1:0:19:6B:C:85:C00000:0:0:0:
+#EXTINF:-1,Sky Cinema HD
+http://77.250.14.41:8001/1:0:19:83:6:85:C00000:0:0:0:
+#EXTINF:-1,Sky Cinema+1 HD
+http://77.250.14.41:8001/1:0:19:86:8:85:C00000:0:0:0:
+#EXTINF:-1,Sky Atlantic HD
+http://77.250.14.41:8001/1:0:19:6E:D:85:C00000:0:0:0:
+#EXTINF:-1,Sky Atlantic+1 HD
+http://77.250.14.41:8001/1:0:19:90:8:85:C00000:0:0:0:
+#EXTINF:-1,Sky Cinema+24 HD
+http://77.250.14.41:8001/1:0:19:87:8:85:C00000:0:0:0:
+#EXTINF:-1,TNT Glitz HD
+http://77.250.14.41:8001/1:0:19:88:E:85:C00000:0:0:0:
+#EXTINF:-1,Sky Select HD
+http://77.250.14.41:8001/1:0:19:78:E:85:C00000:0:0:0:
+#EXTINF:-1,Syfy HD
+http://77.250.14.41:8001/1:0:19:7E:C:85:C00000:0:0:0:
+#EXTINF:-1,RTL Crime HD
+http://77.250.14.41:8001/1:0:19:8C:9:85:C00000:0:0:0:
+#EXTINF:-1,13th Street HD
+http://77.250.14.41:8001/1:0:19:7F:D:85:C00000:0:0:0:
+#EXTINF:-1,AXN HD
+http://77.250.14.41:8001/1:0:19:7D:A:85:C00000:0:0:0:
+#EXTINF:-1,MGM HD
+http://77.250.14.41:8001/1:0:19:73:C:85:C00000:0:0:0:
+#EXTINF:-1,Fox HD
+http://77.250.14.41:8001/1:0:19:7C:A:85:C00000:0:0:0:
+#EXTINF:-1,VOX HD
+http://77.250.14.41:8001/1:0:19:EF11:421:1:C00000:0:0:0:
+#EXTINF:-1,Pro7 FUN HD
+http://77.250.14.41:8001/1:0:19:6A:E:85:C00000:0:0:0:
+#EXTINF:-1,E! Entertainm. HD
+http://77.250.14.41:8001/1:0:19:80:E:85:C00000:0:0:0:
+#EXTINF:-1,Sky HD FanZone
+http://77.250.14.41:8001/1:0:19:66:A:85:C00000:0:0:0:
+#EXTINF:-1,TNT Serie HD
+http://77.250.14.41:8001/1:0:19:7B:B:85:C00000:0:0:0:
+#EXTINF:-1,Discovery HD
+http://77.250.14.41:8001/1:0:19:82:6:85:C00000:0:0:0:
+#EXTINF:-1,NatGeo HD
+http://77.250.14.41:8001/1:0:19:70:D:85:C00000:0:0:0:
+#EXTINF:-1,Nat Geo Wild HD
+http://77.250.14.41:8001/1:0:19:76:6:85:C00000:0:0:0:
+#EXTINF:-1,Spiegel Geschichte HD
+http://77.250.14.41:8001/1:0:19:89:8:85:C00000:0:0:0:
+#EXTINF:-1,History HD
+http://77.250.14.41:8001/1:0:19:71:B:85:C00000:0:0:0:
+#EXTINF:-1,DMAX HD
+http://77.250.14.41:8001/1:0:19:151A:455:1:C00000:0:0:0:
+#EXTINF:-1,TLC HD
+http://77.250.14.41:8001/1:0:19:2774:409:1:C00000:0:0:0:
+#EXTINF:-1,Disney Junior HD
+http://77.250.14.41:8001/1:0:19:8A:8:85:C00000:0:0:0:
+#EXTINF:-1,Disney Channel HD
+http://77.250.14.41:8001/1:0:19:157C:41F:1:C00000:0:0:0:
+#EXTINF:-1,Disney Cinemagic HD
+http://77.250.14.41:8001/1:0:19:6F:D:85:C00000:0:0:0:
+#EXTINF:-1,https://iptv.zone NICKELODEON HD
+http://77.250.14.41:8001/1:0:19:5273:41D:1:C00000:0:0:0:
+#EXTINF:-1,RTL HD
+http://77.250.14.41:8001/1:0:19:EF10:421:1:C00000:0:0:0:
+#EXTINF:-1,RTLII HD
+http://77.250.14.41:8001/1:0:19:EF15:421:1:C00000:0:0:0:
+#EXTINF:-1,RTLNitro HD
+http://77.250.14.41:8001/1:0:19:2EAF:411:1:C00000:0:0:0:
+#EXTINF:-1,TELE 5 HD
+http://77.250.14.41:8001/1:0:19:1519:455:1:C00000:0:0:0:
+#EXTINF:-1,N24 HD
+http://77.250.14.41:8001/1:0:19:5274:41D:1:C00000:0:0:0:
+#EXTINF:-1,MTV HD
+http://77.250.14.41:8001/1:0:19:2777:409:1:C00000:0:0:0:
+#EXTINF:-1,Deluxe Music HD
+http://77.250.14.41:8001/1:0:19:157F:41F:1:C00000:0:0:0:
+#EXTINF:-1,Eurosport 1 HD
+http://77.250.14.41:8001/1:0:19:84:B:85:C00000:0:0:0:
+#EXTINF:-1,Eurosport 2 HD
+http://77.250.14.41:8001/1:0:16:6D:9:85:C00000:0:0:0:
+#EXTINF:-1,RTS Un HD
+http://maison.cantiello.ch:8001/1:0:19:2350:58:1:FFFF0202:0…:
+#EXTINF:-1,RTS Deux HD
+http://maison.cantiello.ch:8001/1:0:19:2351:59:1:FFFF010A:0…:
+#EXTINF:-1,TF 1 HD
+http://maison.cantiello.ch:8001/1:0:19:2334:A9:1:FFFF023A:0…:
+#EXTINF:-1,France 2 HD
+http://maison.cantiello.ch:8001/1:0:19:2335:A9:1:FFFF023A:0…:
+#EXTINF:-1,France 3
+http://maison.cantiello.ch:8001/1:0:1:253C:A3:1:FFFF01CA:0:…:
+#EXTINF:-1,M6 HD
+http://maison.cantiello.ch:8001/1:0:19:2336:A9:1:FFFF023A:0…:
+#EXTINF:-1,ARTE F HD
+http://maison.cantiello.ch:8001/1:0:19:2333:A8:1:FFFF01F2:0…:
+#EXTINF:-1,Rouge TV HD
+http://maison.cantiello.ch:8001/1:0:19:248E:A2:1:FFFF0142:0…:
+#EXTINF:-1,léman bleu
+http://maison.cantiello.ch:8001/1:0:1:EE8:A2:1:FFFF0142:0:0…:
+#EXTINF:-1,la télé HD
+http://maison.cantiello.ch:8001/1:0:19:248A:A8:1:FFFF01F2:0…:
+#EXTINF:-1,Canal 9 HD
+http://maison.cantiello.ch:8001/1:0:19:2558:A2:1:FFFF0142:0…:
+#EXTINF:-1,Canal Alpha HD
+http://maison.cantiello.ch:8001/1:0:19:2488:A8:1:FFFF01F2:0…:
+#EXTINF:-1,Canal Alpha JU HD
+http://maison.cantiello.ch:8001/1:0:19:2489:B1:1:FFFF01E2:0…:
+#EXTINF:-1,TeleBielingue
+http://maison.cantiello.ch:8001/1:0:1:E6:A8:1:FFFF01F2:0:0:0:
+#EXTINF:-1,Be Curious TV HD
+http://maison.cantiello.ch:8001/1:0:19:2452:3F:1:FFFF0242:0…:
+#EXTINF:-1,D8 HD
+http://maison.cantiello.ch:8001/1:0:19:253B:A6:1:FFFF022A:0…:
+#EXTINF:-1,D17
+http://maison.cantiello.ch:8001/1:0:1:E2:A6:1:FFFF022A:0:0:0:
+#EXTINF:-1,AB1 HD
+http://maison.cantiello.ch:8001/1:0:19:2530:A5:1:FFFF01BA:0…:
+#EXTINF:-1,NT1
+http://maison.cantiello.ch:8001/1:0:1:F8:A6:1:FFFF022A:0:0:0:
+#EXTINF:-1,NRJ 12
+http://maison.cantiello.ch:8001/1:0:1:E1:A6:1:FFFF022A:0:0:0:
+#EXTINF:-1,CANAL+ en clair HD
+http://maison.cantiello.ch:8001/1:0:19:251E:A2:1:FFFF0142:0…:
+#EXTINF:-1,Eurosport 1 F
+http://maison.cantiello.ch:8001/1:0:1:F6:A4:1:FFFF01B2:0:0:0:
+#EXTINF:-1,TV5MONDE
+http://maison.cantiello.ch:8001/1:0:1:24D:48:1:FFFF00F2:0:0…:
+#EXTINF:-1,France Ô
+http://maison.cantiello.ch:8001/1:0:1:FE:A6:1:FFFF022A:0:0:0:
+#EXTINF:-1,HD1
+http://maison.cantiello.ch:8001/1:0:19:23BE:AE:1:FFFF0192:0…:
+#EXTINF:-1,6ter
+http://maison.cantiello.ch:8001/1:0:19:23C2:AF:1:FFFF019A:0…:
+#EXTINF:-1,Numéro 23
+http://maison.cantiello.ch:8001/1:0:19:23C3:AF:1:FFFF019A:0…:
+#EXTINF:-1,Chérie 25
+http://maison.cantiello.ch:8001/1:0:19:23C1:AE:1:FFFF0192:0…:
+#EXTINF:-1,TV8 Mont-Blanc
+http://maison.cantiello.ch:8001/1:0:1:118:3E:1:FFFF0232:0:0…:
+#EXTINF:-1,Max TV
+http://maison.cantiello.ch:8001/1:0:1:EE6:A3:1:FFFF01CA:0:0…:
+#EXTINF:-1,https://iptv.zone/en euronews f
+http://maison.cantiello.ch:8001/1:0:1:D6:A0:1:FFFF016A:0:0:0:
+#EXTINF:-1,i>TELE HD
+http://maison.cantiello.ch:8001/1:0:19:2526:3E:1:FFFF0232:0…:
+#EXTINF:-1,France 24
+http://maison.cantiello.ch:8001/1:0:1:24E:48:1:FFFF00F2:0:0…:
+#EXTINF:-1,LCI HD
+http://maison.cantiello.ch:8001/1:0:19:2528:A4:1:FFFF01B2:0…:
 #EXTINF:-1,UK: Sky premier
 http://cobra-iptv.noip.me:8000/live/selina/selina/10171.ts
 #EXTINF:-1,UK: Sky action
